@@ -1,0 +1,2 @@
+Data set is availeble in kaggle account 
+and here the the of data set: https://www.kaggle.com/datasets/mohitjanbandhu/bank-marketing-with-socialeconomic-context 
