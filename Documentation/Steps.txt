@@ -1,0 +1,14 @@
+Process of ML projects
+1. Problem statement
+2. Import Library 
+3.Load Data 
+4. Domain Analysis
+5. Basic Check
+6. Exploratory Data Analysis
+7. Data Preprocessing 
+8. future Engineering 
+9. Model Building 
+10. Conclusion
+
+
+
